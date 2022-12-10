@@ -1,4 +1,4 @@
-![logo](https://docsify.js.org/_media/icon.svg)
+![logo](https://github.com/TMBotDev/TMBot/blob/main/logo.png)
 
 # TMBot
 
