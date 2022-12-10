@@ -1,0 +1,10 @@
+* [TMBot是什么](zh-cn/TMBot是什么.md)
+* **如何安装**
+  * [准备工作](zh-cn/前期/准备工作.md)
+  * [安装Node.JS](zh-cn/前期/安装Node.JS.md)
+  * [安装go-cqhttp](zh-cn/安装go-cqhttp.md)
+  * [开始安装TMBot](zh-cn/中期/安装TMBot.md)
+  * [配置TMBot](zh-cn/后期/配置TMBot.md)
+  * [完成安装](zh-cn/后期/完成安装.md)
+* **技术文档**
+  * [配置文件说明](zh-cn/技术文档/配置文件说明.md)
